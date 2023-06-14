@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeadTypeDef ParentName="NarrowBase">
+    <defName>NarrowSkull</defName>
+    <graphicPath>Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Narrow_Skull</graphicPath>
+    <selectionWeight>0</selectionWeight>
+    <randomChosen>false</randomChosen>
+    <gender>None</gender>
+  </HeadTypeDef>
+</Defs>
