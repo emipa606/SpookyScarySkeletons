@@ -4,15 +4,15 @@ using Verse;
 
 namespace ReplaceSkeletons.Patches;
 
-[HarmonyPatch(typeof(PawnGraphicSet))]
-[HarmonyPatch("ResolveAllGraphics")]
+[HarmonyPatch(typeof(PawnRenderNode_Head), nameof(PawnRenderNode_Head.GraphicFor))]
 public class PawnGraphicSet_ResolveAllGraphics
 {
-    private static void Postfix(ref PawnGraphicSet __instance)
+    private static void Postfix(Pawn pawn, ref Graphic __result)
     {
-        if (__instance.pawn?.story?.headType.defName.ToLower().Contains("narrow") == true)
+        if (pawn.Drawer.renderer.CurRotDrawMode == RotDrawMode.Dessicated &&
+            pawn.story?.headType.defName.ToLower().Contains("narrow") == true)
         {
-            __instance.skullGraphic = HeadTypeDefOf.NarrowSkull.GetGraphic(Color.white, true);
+            __result = HeadTypeDefOf.NarrowSkull.GetGraphic(pawn, Color.white);
         }
     }
 }
