@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3923820848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10adeddd652ce9b18b2208ba7cf01554
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 10adeddd652ce9b18b2208ba7cf01554
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Hulk_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Female_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Male_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Average_Skull_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Average_Skull_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Male_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Thin_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Hulk_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Fat_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Narrow_Skull_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Narrow_Skull_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Narrow_Skull_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Fat_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Female_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Hulk_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Male_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Thin_east.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Female_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Heads/Dessicated/None_Average_Skull_south.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Thin_north.png
+- Assets/Data/Mlie.SpookyScarySkeletons/Textures/Skeletons/Pawn/Humanlike/Bodies/Dessicated/Skeleton_Fat_north.png
+Dependencies: []
